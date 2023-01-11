@@ -1,5 +1,7 @@
 # React Leaflet
 React Leaflet — A simple navigation app showing React + Redux in action
+## :rocket: [Deployment](https://react-leaflet-test.vercel.app/)
+
 ## 🛠 Technologies:
 - **React v18.2**
 - **React Hooks**
